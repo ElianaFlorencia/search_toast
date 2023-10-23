@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 TextView contentText =findViewById(R.id.contentText);
+                contentText.setVisibility(View.VISIBLE);
                 contentText.setText(R.string.contentTextNroDosActualizadoOnClick);
             }
         });
