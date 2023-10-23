@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">search_toast</string>
+    <string name="contentSearchText">texto buscador inicial</string>
+    <string name="contentTextNroDosActualizadoOnClick">texto acualizado cuando apretas el boton</string>
+</resources>
